@@ -3,8 +3,7 @@
 -lorem ispum
 -lorem ispum
 -lorem ispum
--lorem ispum
--lorem ispum
 -lorem ispum-lorem ispum
 -lorem ispum-lorem ispum
 -lorem ispum-lorem ispum
+tes 2
