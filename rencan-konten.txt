@@ -3,6 +3,7 @@ rencana konten
 Lorem ipsum
 - detail
 - edtail 
+-detail penting
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
