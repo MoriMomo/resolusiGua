@@ -2,9 +2,12 @@ rencana konten
 
 Lorem ipsum
 - detail
+* detailnya detail
 - edtail 
+* detailnya detail
 -detail penting
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
+-Lorem ipsum
