@@ -1,6 +1,8 @@
 rencana konten
 
 Lorem ipsum
+- detail
+- edtail 
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
